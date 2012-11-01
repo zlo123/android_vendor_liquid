@@ -1,1 +1,2 @@
+add_lunch_combo liquid_tenderloin-userdebug
 add_lunch_combo liquid_mecha-userdebug
