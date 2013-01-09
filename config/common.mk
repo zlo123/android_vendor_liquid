@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     NovaLauncher \
     PhaseBeam \
     SlimFileManager \
+    DSPManager \
     SuperSU
 
 # tools
