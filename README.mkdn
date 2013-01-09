@@ -6,7 +6,7 @@ with [Git and Repo](http://source.android.com/download/using-repo)
 
 Initialize your local repository using LiquidSmooth, use this command:
 
-    repo init -u git://github.com/LiquidSmooth/android.git -b jb
+    repo init -u git://github.com/zlo123/android.git -b jb
 
 Then sync up:
 
