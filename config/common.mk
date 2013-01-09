@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     NoiseField \
     NovaLauncher \
     PhaseBeam \
+    SlimFileManager \
     SuperSU
 
 # tools
